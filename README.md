@@ -1,1 +1,2 @@
-# erinsussmann.github.io
+# programmingbytes
+Coding for Connecticut Coding Challenge
