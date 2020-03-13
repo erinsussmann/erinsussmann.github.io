@@ -526,6 +526,15 @@ ul{
   -o-background-size: cover;
   background-size: cover;
 }
+.carousel-item2 {
+  height: 50vh;
+  min-height: 200px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 .how-section1{
     margin-top:-15%;
